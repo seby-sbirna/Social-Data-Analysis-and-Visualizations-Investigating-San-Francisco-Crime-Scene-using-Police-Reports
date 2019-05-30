@@ -1,0 +1,48 @@
+md`## Part 1: Narrative Data Viz
+
+Read the article [Narrative Visualization: Telling Stories with Data](http://vis.stanford.edu/files/2010-Narrative-InfoVis.pdf) and answer the following questions:
+
+1. According to your favorite dictionary, what is the *defintion* of a narrative?
+
+	<div style="text-align: justify">Macmillan Dictionary defines _narrative_ as __a story, or an account of something that has happened__. This definition allows us to understand that a narrative visualization represents a type of graphic which is meant to share a story through the various techniques it uses.</div>
+<br>
+
+1. What is your favorite visualization among the examples in section 3? Explain why in a few words.
+
+	<div style="text-align: justify">Our favorite visualization is the **Gapminder Human Development Trends** (_section 3.4._). There are many reasons for this, for example since it presents important information in an easy-to-follow slideshow format maintaining _semantic color and visual element consistency_ across slides, while using as little and as simple text annotations as possible. The graphics seem to be deeply connected to the the narrative presented, and the _martini-glass interactivity structure_ allows for us to first be guided in understanding the core of the described problem, yet still allowing freedom later on and be able to draw our own conclusions.</div>
+
+	<div style="text-align: justify">We have chosen this visualization over the others, since other graphics either have e.g. presented their data in a heavy-terminology manner (_section 3.3_), or have lacked guidance in explaining to the non-expert user about the overall problem which the data is describing before allowing self-exploration of patterns (_section 3.5_).</div>
+<br>
+
+1. In your opinion, what's the point of Figure 7?
+
+	<div style="text-align: justify">Figure 7 is meant to present the summary of a thorough analysis and categorization of various methods of designing a narrative visualization, allowing readers to understand which form of visual narrative techniques and narrative structure methods are met more frequently across all or across each of the seven genres of narrative visualization.</div>
+
+	<div style="text-align: justify">The graphic, however, goes one step further than just pure enumeration of design techniques, and presents highlighting of data patterns which would otherwise be hard for the non-expert reader to find by himself, thus allowing both data problem-guidance and pattern self-exploration for the readers. </div>
+<br>
+
+1. Use Figure 7 to find the most common design choice within each category for the Visual narrative and Narrative structure (the categories within visual narrative are 'visual structuring', 'highlighting', etc). List those most common choices.</div>
+
+	**The most common design choices within Visual Narrative methods are:**
+	  * For Visual Structuring: **Consistent Visual Platform**
+	  * For Highlighting: **Feature Distinction**
+	  * For Transition Guidance: **Object Continuity**
+
+  **The most common design choices within Narrative Structure methods are:**
+    * For Ordering: **User-Directed Path**
+    * For Interactivity: **Filtering / Selection / Search**
+    * For Messaging: **Captions / Headlines**
+<br><br>
+1. Check out Figure 8 and section 4.3. Starting from these, answer the following two questions.
+  1. What is your favorite genre of narrative visualization? Why? 
+
+	<div style="text-align: justify">Our favorite narrative visualization genre is the **_annotated chart_**, since we believe and have seen from experience that, in many cases, it can strike the balance between reader-driven interactivity and author-driven explanatory messaging. A visualization sets the context of the data, and allows the author to set a boundary for how much data-explanatory power the graphic will contain. In particular, an annotated chart is most of the time used to follow and explain only one or a few patterns in the data, as opposed to a flowchart, slideshow or video, where many different data patterns are presented in a very short amount of graphic space (or time, for videos).</div>
+
+	<div style="text-align: justify">We prefer annotated charts or maps, since they allow focusing and interacting on one specific pattern in the data at a time, thus allowing the reader to "sink in" and better understand the data, rather than mixing many different conclusions into one large graphic, which decrease user focusing power upon individual data patterns. If we have multiple patterns to present, then we can allow for a slideshow with an annotated chart present an individual pattern on each slide, or present multiple annotated charts grouped together.</div>
+<br>
+
+  1. What is your least favorite genre? Why?
+
+	<div style="text-align: justify">Our least-favorite narrative visualization genre is the **_flow-chart_**, since it is likely the most rigid type of genre with regard to interaction possibilites. Flow-charts are useful in some situations where the data needs to be presented in a very sequential manner, however it is exactly in this sequentiality that the flowchart has its biggest weakness. It is hard to assume that the reader can freely create its own understanding of the data patterns, since the very form of a flowchart is constricting the amount of interaction and engagement flexibility that the reader may have. Also, this type of gerne is often complemented with a heavy amount of author-driven messaging, which may create clutter when following a complex data pattern with many explanatory branch sub-divisions</div>
+<br>
+`
