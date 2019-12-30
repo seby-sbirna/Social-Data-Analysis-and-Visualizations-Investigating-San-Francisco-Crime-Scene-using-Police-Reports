@@ -1,4 +1,4 @@
-## DTU Social Data Analysis and Visualizations - _Project Portfolio_
+## Social Data Analysis and Visualizations - _Project Portfolio_
 ### _By Aleksander Frese, Sebastian Sbirna and Xingyi Li_
 ---
 This repository contains the collection of projects made for the DTU Data Science course: _Social Data Analysis and Visualizations_.
